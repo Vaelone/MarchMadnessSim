@@ -1,0 +1,57 @@
+   'https://www.ncaa.com/news/basketball-men/article/2020-05-12/2010-ncaa-tournament-bracket-scores-stats-records',
+        'https://www.ncaa.com/news/basketball-men/article/2020-05-05/2011-ncaa-tournament-bracket-scores-stats-records',
+        'https://www.ncaa.com/news/basketball-men/article/2020-05-11/2012-ncaa-tournament-bracket-scores-stats-records',
+        'https://www.ncaa.com/news/basketball-men/article/2020-05-11/2013-ncaa-tournament-bracket-scores-stats-records',
+        'https://www.ncaa.com/news/basketball-men/article/2020-05-10/2014-ncaa-tournament-bracket-scores-stats-records',
+   
+   
+   [
+    "Kentucky", "East Tennessee St.", "West Virginia", "Morgan St.", "New Mexico", "Montana",
+    "Wisconsin", "Wofford", "Cornell", "Temple", "Washington", "Marquette",
+    "Missouri", "Clemson", "Wake Forest", "Texas (OT)", "Syracuse", "Vermont",
+    "Kansas St.", "North Texas", "Pittsburgh", "Oakland", "Murray St.", "Vanderbilt",
+    "Butler", "UTEP", "Xavier", "Minnesota", "BYU", "Florida (2OT)",
+    "Gonzaga", "Florida St.", "Duke", "Arkansas-Pine Bluff", "Villanova", "Robert Morris (OT)",
+    "Baylor", "Sam Houston St.", "Purdue", "Siena", "Texas A&M", "Utah St.",
+    "Old Dominion", "Notre Dame", "Saint Mary's", "Richmond", "California", "Louisville",
+    "Kansas", "Lehigh", "Ohio St.", "UC Santa Barbara", "Ohio", "Georgetown",
+    "Maryland", "Houston", "Michigan St.", "New Mexico St.", "Tennessee", "San Diego St.",
+    "Georgia Tech", "Oklahoma St.", "Northern Iowa", "UNLV"
+   ],
+   [
+    "Ohio St.", "UTSA", "North Carolina", "Long Island", "Syracuse", "Indiana St.",
+    "Kentucky", "Princeton", "West Virginia", "Clemson", "Marquette", "Xavier",
+    "Washington", "Georgia", "George Mason", "Villanova", "Duke", "Hampton",
+    "San Diego St.", "Northern Colorado", "UConn", "Bucknell", "Texas", "Oakland",
+    "Arizona", "Memphis", "Cincinnati", "Missouri", "Temple", "Penn St.",
+    "Michigan", "Tennessee", "Kansas", "Boston University", "Notre Dame", "Akron",
+    "Purdue", "Saint Peter's", "Morehead St.", "Louisville", "Richmond", "Vanderbilt",
+    "VCU", "Georgetown", "Florida St.", "Texas A&M", "Illinois", "UNLV",
+    "Pitt", "UNC Asheville", "Florida", "UC Santa Barbara", "BYU", "Wofford",
+    "Wisconsin", "Belmont", "Kansas St.", "Utah St.", "Gonzaga", "St. John's",
+    "UCLA", "Michigan St.", "Butler", "Old Dominion"
+   ],
+
+   [
+    "Syracuse", "UNC Asheville", "Ohio St.", "Loyola (Md.)", "Florida St.", "St. Bonaventure",
+    "Wisconsin", "Montana", "Vanderbilt", "Harvard", "Cincinnati", "Texas", "Gonzaga", "West Virginia",
+    "Kansas St.", "Southern Miss", "Michigan St.", "Long Island", "Norfolk St.", "Missouri",
+    "Marquette", "BYU", "Louisville", "Davidson", "New Mexico", "Long Beach St.", "Murray St.",
+    "Colorado St.", "Florida", "Virginia", "Saint Louis", "Memphis", "Kentucky", "Western Kentucky",
+    "Lehigh", "Duke", "Baylor", "South Dakota St.", "Indiana", "New Mexico St.", "VCU", "Wichita St.",
+    "Colorado", "UNLV", "Xavier", "Notre Dame", "Iowa St.", "UConn", "North Carolina", "Vermont",
+    "Kansas", "Detroit", "Georgetown", "Belmont", "Ohio", "Michigan", "South Florida", "Temple", "NC State",
+    "San Diego St.", "Purdue", "Saint Mary's", "Creighton", "Alabama"
+   ],
+
+   [
+    "Louisville", "North Carolina A&T", "Duke", "Albany", "Michigan St.", "Valparaiso",
+    "Saint Louis", "New Mexico St.", "Oregon", "Oklahoma St.", "Memphis", "Saint Mary's",
+    "Creighton", "Cincinnati", "Colorado St.", "Missouri", "Gonzaga", "Southern", "Ohio St.",
+    "Iona", "Harvard", "New Mexico", "La Salle", "Kansas St.", "Ole Miss", "Wisconsin", "Arizona",
+    "Belmont", "Iowa St.", "Notre Dame", "Wichita St.", "Pittsburgh", "Indiana", "James Madison",
+    "Miami (Fla.)", "Pacific", "Marquette", "Davidson", "Syracuse", "Montana", "California", "UNLV",
+    "Butler", "Bucknell", "Illinois", "Colorado", "Temple", "NC State", "Kansas", "Western Kentucky",
+    "Florida Gulf Coast", "Georgetown", "Florida", "Northwestern St.", "Michigan", "South Dakota St.",
+    "VCU", "Akron", "Minnesota", "UCLA", "San Diego St.", "Oklahoma", "North Carolina", "Villanova"
+   ],
